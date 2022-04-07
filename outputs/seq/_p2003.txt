@@ -1,0 +1,180 @@
+Quadrado mágico.
+R 1.525000 ms.
+C 30.885000 ms.
+D 0.032000 ms.
+E 520.361023 ms.
+e 32.567017 ms.
+Quadrado mágico.
+R 1.566000 ms.
+C 31.875000 ms.
+D 0.033000 ms.
+E 527.509033 ms.
+e 33.618042 ms.
+Quadrado mágico.
+R 1.400000 ms.
+C 30.723000 ms.
+D 0.035000 ms.
+E 528.723022 ms.
+e 32.335022 ms.
+Quadrado mágico.
+R 1.795000 ms.
+C 33.727001 ms.
+D 0.033000 ms.
+E 528.099976 ms.
+e 35.711975 ms.
+Quadrado mágico.
+R 1.298000 ms.
+C 36.138000 ms.
+D 0.035000 ms.
+E 524.059998 ms.
+e 37.597992 ms.
+Quadrado mágico.
+R 1.283000 ms.
+C 32.647999 ms.
+D 0.079000 ms.
+E 523.130005 ms.
+e 34.161011 ms.
+Quadrado mágico.
+R 1.630000 ms.
+C 34.229000 ms.
+D 0.034000 ms.
+E 523.285034 ms.
+e 36.122009 ms.
+Quadrado mágico.
+R 1.303000 ms.
+C 30.549999 ms.
+D 0.034000 ms.
+E 519.435974 ms.
+e 32.027985 ms.
+Quadrado mágico.
+R 1.470000 ms.
+C 33.188999 ms.
+D 0.053000 ms.
+E 524.162964 ms.
+e 34.858978 ms.
+Quadrado mágico.
+R 1.597000 ms.
+C 31.070999 ms.
+D 0.033000 ms.
+E 527.594971 ms.
+e 32.863983 ms.
+Quadrado mágico.
+R 1.309000 ms.
+C 32.464001 ms.
+D 0.035000 ms.
+E 524.245972 ms.
+e 33.953979 ms.
+Quadrado mágico.
+R 1.488000 ms.
+C 31.365000 ms.
+D 0.029000 ms.
+E 532.573975 ms.
+e 33.028961 ms.
+Quadrado mágico.
+R 1.542000 ms.
+C 33.132000 ms.
+D 0.034000 ms.
+E 527.157959 ms.
+e 34.852966 ms.
+Quadrado mágico.
+R 1.422000 ms.
+C 34.049999 ms.
+D 0.034000 ms.
+E 523.492981 ms.
+e 35.636993 ms.
+Quadrado mágico.
+R 1.288000 ms.
+C 36.951000 ms.
+D 0.034000 ms.
+E 543.924011 ms.
+e 38.397003 ms.
+Quadrado mágico.
+R 2.607000 ms.
+C 32.911999 ms.
+D 0.040000 ms.
+E 543.541992 ms.
+e 35.800995 ms.
+Quadrado mágico.
+R 1.628000 ms.
+C 32.505001 ms.
+D 0.036000 ms.
+E 542.452026 ms.
+e 34.323029 ms.
+Quadrado mágico.
+R 1.803000 ms.
+C 31.259001 ms.
+D 0.033000 ms.
+E 570.931030 ms.
+e 33.226013 ms.
+Quadrado mágico.
+R 1.642000 ms.
+C 33.422001 ms.
+D 0.035000 ms.
+E 564.283997 ms.
+e 35.225037 ms.
+Quadrado mágico.
+R 2.010000 ms.
+C 35.162998 ms.
+D 0.031000 ms.
+E 564.182007 ms.
+e 37.359985 ms.
+Quadrado mágico.
+R 1.709000 ms.
+C 33.186001 ms.
+D 0.034000 ms.
+E 551.570984 ms.
+e 35.180969 ms.
+Quadrado mágico.
+R 1.605000 ms.
+C 32.007999 ms.
+D 0.046000 ms.
+E 549.557007 ms.
+e 33.792969 ms.
+Quadrado mágico.
+R 1.596000 ms.
+C 37.373001 ms.
+D 0.075000 ms.
+E 560.617981 ms.
+e 39.240967 ms.
+Quadrado mágico.
+R 1.479000 ms.
+C 32.431999 ms.
+D 0.041000 ms.
+E 556.256958 ms.
+e 34.098999 ms.
+Quadrado mágico.
+R 1.532000 ms.
+C 32.318001 ms.
+D 0.034000 ms.
+E 568.596985 ms.
+e 34.033997 ms.
+Quadrado mágico.
+R 1.515000 ms.
+C 33.060001 ms.
+D 0.033000 ms.
+E 568.223999 ms.
+e 34.737000 ms.
+Quadrado mágico.
+R 4.488000 ms.
+C 39.491001 ms.
+D 0.046000 ms.
+E 578.440002 ms.
+e 44.231018 ms.
+Quadrado mágico.
+R 1.442000 ms.
+C 32.862000 ms.
+D 0.033000 ms.
+E 549.531982 ms.
+e 34.524963 ms.
+Quadrado mágico.
+R 1.792000 ms.
+C 35.008999 ms.
+D 0.028000 ms.
+E 567.205994 ms.
+e 36.971985 ms.
+Quadrado mágico.
+R 1.310000 ms.
+C 32.255001 ms.
+D 0.029000 ms.
+E 547.656982 ms.
+e 33.740967 ms.

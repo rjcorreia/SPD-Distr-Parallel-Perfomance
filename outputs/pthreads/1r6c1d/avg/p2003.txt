@@ -1,0 +1,6 @@
+Rows = 2.550733
+Columns = 9.437933
+Diagonals = 0.065700
+Threads = 9.591367
+Execution = 512.832964
+Without Read = 9.685800

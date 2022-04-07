@@ -1,0 +1,8 @@
+Quadrado mágico.
+Reading 98.596001 ms.
+R 3.716000 ms.
+C 22.680000 ms.
+D 0.031000 ms.
+T 0.000000 ms.
+E 598.728027 ms.
+e 500.132019 ms.

@@ -1,0 +1,211 @@
+Quadrado mágico.
+R 0.328000 ms.
+C 0.294000 ms.
+D 0.000000 ms.
+T 0.626000 ms.
+E 0.677000 ms.
+e 0.662000 ms.
+Quadrado mágico.
+R 0.313000 ms.
+C 0.230000 ms.
+D 0.000000 ms.
+T 0.601000 ms.
+E 0.651000 ms.
+e 0.637000 ms.
+Quadrado mágico.
+R 0.358000 ms.
+C 0.283000 ms.
+D 0.000000 ms.
+T 0.644000 ms.
+E 0.693000 ms.
+e 0.679000 ms.
+Quadrado mágico.
+R 0.385000 ms.
+C 0.306000 ms.
+D 0.000000 ms.
+T 0.659000 ms.
+E 0.713000 ms.
+e 0.698000 ms.
+Quadrado mágico.
+R 0.329000 ms.
+C 0.238000 ms.
+D 0.000000 ms.
+T 0.611000 ms.
+E 0.660000 ms.
+e 0.646000 ms.
+Quadrado mágico.
+R 0.373000 ms.
+C 0.240000 ms.
+D 0.000000 ms.
+T 0.627000 ms.
+E 0.675000 ms.
+e 0.662000 ms.
+Quadrado mágico.
+R 0.322000 ms.
+C 0.235000 ms.
+D 0.001000 ms.
+T 0.595000 ms.
+E 0.645000 ms.
+e 0.631000 ms.
+Quadrado mágico.
+R 0.297000 ms.
+C 0.232000 ms.
+D 0.000000 ms.
+T 0.561000 ms.
+E 0.612000 ms.
+e 0.598000 ms.
+Quadrado mágico.
+R 0.311000 ms.
+C 0.228000 ms.
+D 0.000000 ms.
+T 0.613000 ms.
+E 0.671000 ms.
+e 0.653000 ms.
+Quadrado mágico.
+R 0.437000 ms.
+C 0.273000 ms.
+D 0.000000 ms.
+T 0.890000 ms.
+E 1.007000 ms.
+e 0.967000 ms.
+Quadrado mágico.
+R 0.316000 ms.
+C 0.258000 ms.
+D 0.000000 ms.
+T 0.564000 ms.
+E 0.615000 ms.
+e 0.601000 ms.
+Quadrado mágico.
+R 0.375000 ms.
+C 0.386000 ms.
+D 0.000000 ms.
+T 0.653000 ms.
+E 0.709000 ms.
+e 0.694000 ms.
+Quadrado mágico.
+R 0.377000 ms.
+C 0.260000 ms.
+D 0.000000 ms.
+T 0.669000 ms.
+E 0.727000 ms.
+e 0.712000 ms.
+Quadrado mágico.
+R 0.393000 ms.
+C 0.296000 ms.
+D 0.000000 ms.
+T 0.689000 ms.
+E 0.817000 ms.
+e 0.792000 ms.
+Quadrado mágico.
+R 0.451000 ms.
+C 0.384000 ms.
+D 0.000000 ms.
+T 0.820000 ms.
+E 0.911000 ms.
+e 0.892000 ms.
+Quadrado mágico.
+R 0.316000 ms.
+C 0.274000 ms.
+D 0.000000 ms.
+T 0.599000 ms.
+E 0.654000 ms.
+e 0.638000 ms.
+Quadrado mágico.
+R 0.314000 ms.
+C 0.248000 ms.
+D 0.000000 ms.
+T 0.605000 ms.
+E 0.654000 ms.
+e 0.640000 ms.
+Quadrado mágico.
+R 0.342000 ms.
+C 0.250000 ms.
+D 0.000000 ms.
+T 0.623000 ms.
+E 0.688000 ms.
+e 0.672000 ms.
+Quadrado mágico.
+R 0.450000 ms.
+C 0.299000 ms.
+D 0.001000 ms.
+T 1.129000 ms.
+E 1.211000 ms.
+e 1.191000 ms.
+Quadrado mágico.
+R 0.296000 ms.
+C 0.247000 ms.
+D 0.000000 ms.
+T 0.569000 ms.
+E 0.619000 ms.
+e 0.605000 ms.
+Quadrado mágico.
+R 0.310000 ms.
+C 0.228000 ms.
+D 0.000000 ms.
+T 0.558000 ms.
+E 0.609000 ms.
+e 0.595000 ms.
+Quadrado mágico.
+R 0.391000 ms.
+C 0.321000 ms.
+D 0.000000 ms.
+T 0.720000 ms.
+E 0.777000 ms.
+e 0.761000 ms.
+Quadrado mágico.
+R 0.330000 ms.
+C 0.266000 ms.
+D 0.000000 ms.
+T 0.624000 ms.
+E 0.673000 ms.
+e 0.659000 ms.
+Quadrado mágico.
+R 0.292000 ms.
+C 0.228000 ms.
+D 0.001000 ms.
+T 0.584000 ms.
+E 0.632000 ms.
+e 0.618000 ms.
+Quadrado mágico.
+R 0.289000 ms.
+C 0.196000 ms.
+D 0.000000 ms.
+T 0.589000 ms.
+E 0.639000 ms.
+e 0.624000 ms.
+Quadrado mágico.
+R 0.310000 ms.
+C 0.226000 ms.
+D 0.000000 ms.
+T 0.567000 ms.
+E 0.618000 ms.
+e 0.603000 ms.
+Quadrado mágico.
+R 0.307000 ms.
+C 0.233000 ms.
+D 0.000000 ms.
+T 0.626000 ms.
+E 0.675000 ms.
+e 0.661000 ms.
+Quadrado mágico.
+R 0.316000 ms.
+C 0.238000 ms.
+D 0.000000 ms.
+T 0.608000 ms.
+E 0.657000 ms.
+e 0.643000 ms.
+Quadrado mágico.
+R 0.353000 ms.
+C 0.346000 ms.
+D 0.000000 ms.
+T 0.648000 ms.
+E 0.697000 ms.
+e 0.683000 ms.
+Quadrado mágico.
+R 0.285000 ms.
+C 0.234000 ms.
+D 0.000000 ms.
+T 0.591000 ms.
+E 0.640000 ms.
+e 0.626000 ms.
+Quadrado mágico.

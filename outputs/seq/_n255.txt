@@ -1,0 +1,180 @@
+Não é quadrado mágico.
+R 0.023000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.854000 ms.
+e 0.079000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.748000 ms.
+e 0.097000 ms.
+Não é quadrado mágico.
+R 0.029000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.531000 ms.
+e 0.152000 ms.
+Não é quadrado mágico.
+R 0.026000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.092000 ms.
+e 0.089000 ms.
+Não é quadrado mágico.
+R 0.021000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.773000 ms.
+e 0.086000 ms.
+Não é quadrado mágico.
+R 0.022000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.082000 ms.
+e 0.085000 ms.
+Não é quadrado mágico.
+R 0.022000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.017000 ms.
+e 0.088000 ms.
+Não é quadrado mágico.
+R 0.027000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.178000 ms.
+e 0.095000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.734000 ms.
+e 0.093000 ms.
+Não é quadrado mágico.
+R 0.021000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.021000 ms.
+e 0.086000 ms.
+Não é quadrado mágico.
+R 0.031000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.322000 ms.
+e 0.103000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.883000 ms.
+e 0.092000 ms.
+Não é quadrado mágico.
+R 0.020000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.976000 ms.
+e 0.091000 ms.
+Não é quadrado mágico.
+R 0.022000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.141000 ms.
+e 0.085999 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.956000 ms.
+e 0.091000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.113000 ms.
+e 0.090000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.072000 ms.
+e 0.103000 ms.
+Não é quadrado mágico.
+R 0.021000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.994000 ms.
+e 0.086000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.794000 ms.
+e 0.091000 ms.
+Não é quadrado mágico.
+R 0.022000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.026000 ms.
+e 0.088000 ms.
+Não é quadrado mágico.
+R 0.027000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.105000 ms.
+e 0.112000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.777000 ms.
+e 0.094000 ms.
+Não é quadrado mágico.
+R 0.022000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.092000 ms.
+e 0.079000 ms.
+Não é quadrado mágico.
+R 0.038000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.545000 ms.
+e 0.119000 ms.
+Não é quadrado mágico.
+R 0.023000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.968000 ms.
+e 0.091000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.782000 ms.
+e 0.104000 ms.
+Não é quadrado mágico.
+R 0.025000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 8.138000 ms.
+e 0.096000 ms.
+Não é quadrado mágico.
+R 0.024000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.975000 ms.
+e 0.088000 ms.
+Não é quadrado mágico.
+R 0.018000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.621000 ms.
+e 0.074000 ms.
+Não é quadrado mágico.
+R 0.023000 ms.
+C 0.000000 ms.
+D 0.000000 ms.
+E 7.979000 ms.
+e 0.089000 ms.

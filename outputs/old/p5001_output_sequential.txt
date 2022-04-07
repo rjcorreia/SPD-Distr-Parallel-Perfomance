@@ -1,0 +1,210 @@
+Quadrado mágico.
+Reading executed in 3623.134033 milliseconds.
+Rows executed in 59.391998 milliseconds.
+Columns executed in 304.937012 milliseconds.
+Diagonals executed in 0.172000 milliseconds.
+Code executed in 4093.337891 milliseconds.
+Code executed without read in 470.203857 milliseconds.
+Quadrado mágico.
+Reading executed in 3647.049072 milliseconds.
+Rows executed in 57.806000 milliseconds.
+Columns executed in 306.923004 milliseconds.
+Diagonals executed in 0.174000 milliseconds.
+Code executed in 4120.446777 milliseconds.
+Code executed without read in 473.397705 milliseconds.
+Quadrado mágico.
+Reading executed in 3579.186035 milliseconds.
+Rows executed in 58.671001 milliseconds.
+Columns executed in 290.431000 milliseconds.
+Diagonals executed in 0.164000 milliseconds.
+Code executed in 4044.069092 milliseconds.
+Code executed without read in 464.883057 milliseconds.
+Quadrado mágico.
+Reading executed in 3571.420898 milliseconds.
+Rows executed in 60.080002 milliseconds.
+Columns executed in 299.737000 milliseconds.
+Diagonals executed in 0.170000 milliseconds.
+Code executed in 4042.922119 milliseconds.
+Code executed without read in 471.501221 milliseconds.
+Quadrado mágico.
+Reading executed in 3470.478027 milliseconds.
+Rows executed in 59.577000 milliseconds.
+Columns executed in 308.385010 milliseconds.
+Diagonals executed in 0.179000 milliseconds.
+Code executed in 3948.721924 milliseconds.
+Code executed without read in 478.243896 milliseconds.
+Quadrado mágico.
+Reading executed in 3413.208984 milliseconds.
+Rows executed in 55.231998 milliseconds.
+Columns executed in 306.864014 milliseconds.
+Diagonals executed in 0.163000 milliseconds.
+Code executed in 3877.683105 milliseconds.
+Code executed without read in 464.474121 milliseconds.
+Quadrado mágico.
+Reading executed in 3434.729004 milliseconds.
+Rows executed in 55.751999 milliseconds.
+Columns executed in 311.446991 milliseconds.
+Diagonals executed in 0.175000 milliseconds.
+Code executed in 3904.726074 milliseconds.
+Code executed without read in 469.997070 milliseconds.
+Quadrado mágico.
+Reading executed in 3457.924072 milliseconds.
+Rows executed in 56.553001 milliseconds.
+Columns executed in 310.148010 milliseconds.
+Diagonals executed in 0.178000 milliseconds.
+Code executed in 3929.680908 milliseconds.
+Code executed without read in 471.756836 milliseconds.
+Quadrado mágico.
+Reading executed in 3408.352051 milliseconds.
+Rows executed in 56.424011 milliseconds.
+Columns executed in 305.631989 milliseconds.
+Diagonals executed in 0.168000 milliseconds.
+Code executed in 3875.605957 milliseconds.
+Code executed without read in 467.253906 milliseconds.
+Quadrado mágico.
+Reading executed in 3429.976074 milliseconds.
+Rows executed in 57.002998 milliseconds.
+Columns executed in 291.278992 milliseconds.
+Diagonals executed in 0.180000 milliseconds.
+Code executed in 3880.207031 milliseconds.
+Code executed without read in 450.230957 milliseconds.
+Quadrado mágico.
+Reading executed in 3463.846924 milliseconds.
+Rows executed in 58.374001 milliseconds.
+Columns executed in 301.307007 milliseconds.
+Diagonals executed in 0.162000 milliseconds.
+Code executed in 3934.920898 milliseconds.
+Code executed without read in 471.073975 milliseconds.
+Quadrado mágico.
+Reading executed in 3396.298096 milliseconds.
+Rows executed in 55.985001 milliseconds.
+Columns executed in 285.868011 milliseconds.
+Diagonals executed in 0.173000 milliseconds.
+Code executed in 3842.886963 milliseconds.
+Code executed without read in 446.588867 milliseconds.
+Quadrado mágico.
+Reading executed in 3427.604004 milliseconds.
+Rows executed in 56.250000 milliseconds.
+Columns executed in 311.990997 milliseconds.
+Diagonals executed in 0.160000 milliseconds.
+Code executed in 3901.939941 milliseconds.
+Code executed without read in 474.335938 milliseconds.
+Quadrado mágico.
+Reading executed in 3474.279053 milliseconds.
+Rows executed in 55.530998 milliseconds.
+Columns executed in 298.444000 milliseconds.
+Diagonals executed in 0.178000 milliseconds.
+Code executed in 3936.943115 milliseconds.
+Code executed without read in 462.664062 milliseconds.
+Quadrado mágico.
+Reading executed in 3388.999023 milliseconds.
+Rows executed in 55.438000 milliseconds.
+Columns executed in 306.165009 milliseconds.
+Diagonals executed in 0.164000 milliseconds.
+Code executed in 3854.799072 milliseconds.
+Code executed without read in 465.800049 milliseconds.
+Quadrado mágico.
+Reading executed in 3435.116943 milliseconds.
+Rows executed in 57.126999 milliseconds.
+Columns executed in 292.417999 milliseconds.
+Diagonals executed in 0.158000 milliseconds.
+Code executed in 3889.260010 milliseconds.
+Code executed without read in 454.143066 milliseconds.
+Quadrado mágico.
+Reading executed in 3641.016113 milliseconds.
+Rows executed in 56.310001 milliseconds.
+Columns executed in 292.578003 milliseconds.
+Diagonals executed in 0.167000 milliseconds.
+Code executed in 4101.570801 milliseconds.
+Code executed without read in 460.554688 milliseconds.
+Quadrado mágico.
+Reading executed in 3974.414062 milliseconds.
+Rows executed in 61.743999 milliseconds.
+Columns executed in 313.940979 milliseconds.
+Diagonals executed in 0.169000 milliseconds.
+Code executed in 4475.230957 milliseconds.
+Code executed without read in 500.816895 milliseconds.
+Quadrado mágico.
+Reading executed in 3889.677979 milliseconds.
+Rows executed in 57.758999 milliseconds.
+Columns executed in 335.115997 milliseconds.
+Diagonals executed in 0.178000 milliseconds.
+Code executed in 4395.574219 milliseconds.
+Code executed without read in 505.896240 milliseconds.
+Quadrado mágico.
+Reading executed in 3878.481934 milliseconds.
+Rows executed in 56.708000 milliseconds.
+Columns executed in 302.687988 milliseconds.
+Diagonals executed in 0.208000 milliseconds.
+Code executed in 4349.625000 milliseconds.
+Code executed without read in 471.143066 milliseconds.
+Quadrado mágico.
+Reading executed in 3551.891113 milliseconds.
+Rows executed in 56.334000 milliseconds.
+Columns executed in 306.690979 milliseconds.
+Diagonals executed in 0.190000 milliseconds.
+Code executed in 4020.812988 milliseconds.
+Code executed without read in 468.921875 milliseconds.
+Quadrado mágico.
+Reading executed in 3898.903076 milliseconds.
+Rows executed in 59.986000 milliseconds.
+Columns executed in 335.082001 milliseconds.
+Diagonals executed in 0.173000 milliseconds.
+Code executed in 4413.139160 milliseconds.
+Code executed without read in 514.236084 milliseconds.
+Quadrado mágico.
+Reading executed in 3737.376953 milliseconds.
+Rows executed in 56.174999 milliseconds.
+Columns executed in 296.428009 milliseconds.
+Diagonals executed in 0.181000 milliseconds.
+Code executed in 4193.685059 milliseconds.
+Code executed without read in 456.308105 milliseconds.
+Quadrado mágico.
+Reading executed in 3493.366943 milliseconds.
+Rows executed in 58.068001 milliseconds.
+Columns executed in 299.475006 milliseconds.
+Diagonals executed in 0.163000 milliseconds.
+Code executed in 3961.147949 milliseconds.
+Code executed without read in 467.781006 milliseconds.
+Quadrado mágico.
+Reading executed in 3417.475098 milliseconds.
+Rows executed in 56.410999 milliseconds.
+Columns executed in 300.070007 milliseconds.
+Diagonals executed in 0.174000 milliseconds.
+Code executed in 3882.416992 milliseconds.
+Code executed without read in 464.941895 milliseconds.
+Quadrado mágico.
+Reading executed in 3431.250000 milliseconds.
+Rows executed in 55.999001 milliseconds.
+Columns executed in 298.260986 milliseconds.
+Diagonals executed in 0.162000 milliseconds.
+Code executed in 3889.439941 milliseconds.
+Code executed without read in 458.189941 milliseconds.
+Quadrado mágico.
+Reading executed in 3687.274902 milliseconds.
+Rows executed in 56.426998 milliseconds.
+Columns executed in 311.049011 milliseconds.
+Diagonals executed in 0.165000 milliseconds.
+Code executed in 4166.662109 milliseconds.
+Code executed without read in 479.387207 milliseconds.
+Quadrado mágico.
+Reading executed in 3675.145020 milliseconds.
+Rows executed in 61.158001 milliseconds.
+Columns executed in 301.065002 milliseconds.
+Diagonals executed in 0.167000 milliseconds.
+Code executed in 4144.958008 milliseconds.
+Code executed without read in 469.812988 milliseconds.
+Quadrado mágico.
+Reading executed in 3566.850098 milliseconds.
+Rows executed in 60.168999 milliseconds.
+Columns executed in 304.556000 milliseconds.
+Diagonals executed in 0.177000 milliseconds.
+Code executed in 4070.268066 milliseconds.
+Code executed without read in 503.417969 milliseconds.
+Quadrado mágico.
+Reading executed in 3634.602051 milliseconds.
+Rows executed in 66.820999 milliseconds.
+Columns executed in 325.435974 milliseconds.
+Diagonals executed in 0.361000 milliseconds.
+Code executed in 4163.204102 milliseconds.
+Code executed without read in 528.602051 milliseconds.
